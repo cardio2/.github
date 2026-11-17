@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://cardio2.info"><img src="https://raw.githubusercontent.com/cardio2/brand-assets/main/logo.svg" alt="Cardio2" width="280"></a>
+  <a href="https://cardio2.info"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cardio2/brand-assets/main/logo-on-dark.svg"><img src="https://raw.githubusercontent.com/cardio2/brand-assets/main/logo.svg" alt="Cardio2" width="280"></picture></a>
 </p>
 
 <h3 align="center">AI that explains. Rules that protect.</h3>
